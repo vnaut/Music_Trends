@@ -1,2 +1,4 @@
 # Music_Trends
+I utilized the skills I learned in Python during the Engineering Summer Academy at Penn to conduct a project analyzing music trends. By applying web scraping techniques, I gathered data on the popularity of various music genres from online sources. I employed libraries such as Pandas, Matplotlib, and Seaborn to analyze these trends and create visualizations in the form of pie charts, bar charts, histograms, and line graphs. Through this analysis, I discovered a 15% increase in the popularity of pop music over a 10-year span, identifying it as the fastest-growing genre during the period.
+
 Unfortunately, the email accessing the project code has been disabled after completion of the summer program. I have provided an image that shows my groupmates and I presenting the project on our final day.
